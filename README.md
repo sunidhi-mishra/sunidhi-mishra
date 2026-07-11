@@ -12,7 +12,7 @@
   <a href="mailto:msunidhi03@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://drive.google.com/file/d/1zyHZ-Y7bHxVEzTdqDZjppBcrOddEMOed/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1oUaZbnB_50iH6fYW6dla6zejCMUeT6-4/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white">
   </a>
   <a href="https://forested-cause-f70.notion.site/Glad-You-re-Here-37bb981820d380e39e65de2bb35e8a9e#37cb981820d3804ca248fd629df45847" target="_blank">
